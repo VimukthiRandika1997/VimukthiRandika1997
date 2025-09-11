@@ -13,7 +13,7 @@ I like working with AI, ML, Data Engineering, Python, SQL and NoSQL databases, D
 
 Beyond my core expertise, I like experimenting with such technologies as Rust, TypeScript, and modern frontend frameworks. 💡
 
-Having worked within different international teams I've contributed to the development of various products in such domains as Finance, Transportation, and Marketing. 🌍
+Having worked within different international teams I've contributed to the development of various products in such domains as Warehouse Logistics, E-commerce, Finance, etc. 🌍
 
 Currently, I serve as a Machine Learning Engineer at Rabot.us. 💻
 
