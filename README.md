@@ -17,6 +17,11 @@ Having worked within different international teams I've contributed to the devel
 
 Currently, I serve as a Machine Learning Engineer at Rabot.us. 💻
 
+My Portfolio:
+
+- [Building and Experimenting Production Grade AI Applications](https://github.com/VimukthiRandika1997/AI-development)
+- [Data-Engineering](https://github.com/VimukthiRandika1997/Data-Engineering)
+
 Connect with me via:
 
 - Email: vimukthirandika1997@gmail.com
