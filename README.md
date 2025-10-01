@@ -3,6 +3,8 @@ I am an AI/ML Engineer, Independent Researcher from Sri Lanka. 📍
 
 ____________________________________________________________________
 
+<img align="right" alt="" src="./229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+
 I hold a degree in Computer Science from University of Jaffna, Sri Lanka. 👋
 
 In my free time, I do independent research works for product development. 💡
