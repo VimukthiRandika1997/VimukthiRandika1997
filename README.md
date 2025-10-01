@@ -28,3 +28,4 @@ Connect with me via:
 
 - Email: vimukthirandika1997@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/vimukthi-randika/)
+- [Medium](https://medium.com/@vimukthirandika1997)
